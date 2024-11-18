@@ -1,4 +1,6 @@
-![DevEx Unlocked logo](./assets/logo.png)
+<p align="center" width="100%">
+<img src="./assets/logo.png" alt="DevEx Unlocked logo" />
+</p>
 
 # DevEx Unlocked
 
